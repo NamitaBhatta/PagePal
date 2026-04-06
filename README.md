@@ -4,12 +4,12 @@
 ![PagePal UI](./assets/ui.png)
 
 ## ✨ Features
-- 📂 Upload and process PDF documents  
-- 💬 Ask questions in natural language  
-- 🔍 Semantic search using embeddings  
-- ⚡ Fast responses via Groq (LLaMA 3.3 70B)  
-- 📚 Context-aware answers grounded in documents  
-- 🧠 Persistent vector storage with Chroma  
+- Upload and process PDF documents  
+- Ask questions in natural language  
+- Semantic search using embeddings  
+- Fast responses via Groq (LLaMA 3.3 70B)  
+- Context-aware answers grounded in documents  
+- Persistent vector storage with Chroma  
   
 ## ⚙️ Tech Stack
 | Category        | Tool / Model                                    |
